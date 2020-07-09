@@ -32,7 +32,7 @@
 
 ## Internal Images
 
-![images](images/Dimebag.jpg)
+![images](images/dimebag.jpg)
 
 
 ## Emojis
