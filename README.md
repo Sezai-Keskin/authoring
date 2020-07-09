@@ -10,7 +10,7 @@
 
 ## Checkbox to images
 
-- [ ] ![images](https://github.com/Sezai-Keskin/authoring/blob/master/images/Profilbild_Sezai_Keskin.png)
+- [ ] ![images](/blob/master/images/Profilbild_Sezai_Keskin.png)
 
 ## Checkbox to emojis
 
