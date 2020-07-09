@@ -6,7 +6,7 @@
 
 ## Checkbox to internal Link
 
-- [ ]  [Link to images folder](https://github.com/Sezai-Keskin/authoring/tree/master/images)
+- [ ]  [Link to images folder](/images)
 
 ## Checkbox to images
 
