@@ -2,33 +2,39 @@
 
 
 
-## [External Link](#external-link)
+[External Link](#external-link)
 
-## Checkbox to internal Link
+## internal Link
 
-- [ ]  [Link to images folder](/images)
-
-## Checkbox to images
-
-- [ ] ![images](images/Profilbild_Sezai_Keskin.png)
+## images
 
 ## Checkbox to emojis
 
-- [ ] emojis :smiley:
-
 ## Checkbox to tables
 
-|Name    | class   |
-| ------- | ------ |
-| John Doe | john@gmail.com|
-| Jane Doe | jane@gmail.com|
 
-- [ ] Table Checkbox
 
 
 ## External Link
 
 - [ ]  [GitHub Documentation](https://help.github.com/en)
 
-Link each of the secondary headings to the respective checkbox items.
-Once you have completed all the tasks, tick the checkboxes.
+## Internal Link
+
+- [ ]  [Link to images folder](/images)
+
+## Internal Images
+
+- [ ] ![images](images/Profilbild_Sezai_Keskin.png)
+
+## Emojis
+- [ ] emojis :smiley:
+
+## Tables
+|Name    | class   |
+| ------- | ------ |
+| John Doe | john@gmail.com|
+| Jane Doe | jane@gmail.com|
+
+Table Checkbox
+- [ ] 
