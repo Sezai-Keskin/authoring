@@ -2,7 +2,8 @@
 
 
 
-[External Link](#external-link)
+
+- [x]  [External Link](#external-link)
 
 [Internal Link](#internal-link)
 
@@ -19,7 +20,6 @@
 
 [GitHub Documentation](https://help.github.com/en)
 
-- [x]  
 
 ## Internal Link
 
