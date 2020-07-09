@@ -2,7 +2,7 @@
 
 
 
-## Checkbox to external Link
+## [Checkbox to external Link](
 
 [create an anchor](#anchors-in-markdown)
 
@@ -28,7 +28,7 @@
 - [ ] Table Checkbox
 
 
-[create an anchor](#anchors-in-markdown)
+(#anchors-in-markdown)
 - [ ]  [GitHub Documentation](https://help.github.com/en)
 
 Link each of the secondary headings to the respective checkbox items.
