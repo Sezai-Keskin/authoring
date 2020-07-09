@@ -23,7 +23,7 @@
 | John Doe | john@gmail.com|
 | Jane Doe | jane@gmail.com|
 
-- [ ] 
+- [ ] Table Checkbox
 
 Link each of the secondary headings to the respective checkbox items.
 Once you have completed all the tasks, tick the checkboxes.
