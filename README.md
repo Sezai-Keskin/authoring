@@ -17,18 +17,26 @@
 
 ## External Link
 
-- [ ]  [GitHub Documentation](https://help.github.com/en)
+[GitHub Documentation](https://help.github.com/en)
+
+- [x]  
 
 ## Internal Link
 
-- [ ]  [Link to images folder](/images)
+[Link to images folder](/images)
+
+- [x] 
 
 ## Internal Images
 
-- [ ] ![images](images/Profilbild_Sezai_Keskin.png)
+![images](images/Profilbild_Sezai_Keskin.png)
+
+- [x] 
 
 ## Emojis
-- [ ] emojis :smiley:
+emojis :smiley:
+
+- [x] 
 
 ## Tables
 |Name    | class   |
@@ -36,5 +44,4 @@
 | John Doe | john@gmail.com|
 | Jane Doe | jane@gmail.com|
 
-Table Checkbox
-- [ ] 
+- [x] 
