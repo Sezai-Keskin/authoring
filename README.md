@@ -1,10 +1,10 @@
 # GitHub Flavoured Markdown
 
-[create an anchor](#anchors-in-markdown)
+
 
 ## Checkbox to external Link
 
-- [ ]  [GitHub Documentation](https://help.github.com/en)
+[create an anchor](#anchors-in-markdown)
 
 ## Checkbox to internal Link
 
@@ -26,6 +26,10 @@
 | Jane Doe | jane@gmail.com|
 
 - [ ] Table Checkbox
+
+
+[create an anchor]
+- [ ]  [GitHub Documentation](https://help.github.com/en)
 
 Link each of the secondary headings to the respective checkbox items.
 Once you have completed all the tasks, tick the checkboxes.
