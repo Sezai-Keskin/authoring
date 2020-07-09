@@ -2,7 +2,7 @@
 
 
 
-## [Checkbox to external Link](#external-link)
+## [External Link](#external-link)
 
 ## Checkbox to internal Link
 
@@ -26,7 +26,7 @@
 - [ ] Table Checkbox
 
 
-External-Link
+## External Link
 
 - [ ]  [GitHub Documentation](https://help.github.com/en)
 
