@@ -32,7 +32,7 @@
 
 ## Internal Images
 
-![images](images/Profilbild_Sezai_Keskin.png)
+![images](images/Dimebag.jpg)
 
 
 ## Emojis
