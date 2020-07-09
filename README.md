@@ -17,13 +17,13 @@
 - [ ] emojis :smiley:
 
 ## Checkbox to tables
-- [ ] 
+
 |Name    | class   |
 | ------- | ------ |
 | John Doe | john@gmail.com|
 | Jane Doe | jane@gmail.com|
 
-
+- [ ] 
 
 Link each of the secondary headings to the respective checkbox items.
 Once you have completed all the tasks, tick the checkboxes.
