@@ -2,9 +2,7 @@
 
 
 
-## [Checkbox to external Link](
-
-[create an anchor](#anchors-in-markdown)
+## [Checkbox to external Link](#anchors-in-markdown)
 
 ## Checkbox to internal Link
 
