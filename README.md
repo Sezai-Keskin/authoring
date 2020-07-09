@@ -26,7 +26,7 @@
 - [ ] Table Checkbox
 
 
-(#external-link)
+External-Link
 
 - [ ]  [GitHub Documentation](https://help.github.com/en)
 
