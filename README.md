@@ -10,7 +10,7 @@
 
 [Emojis](#emojis)
 
-[Tables](tables)
+[Tables](#tables)
 
 
 
